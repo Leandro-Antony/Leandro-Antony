@@ -299,7 +299,7 @@ SYSTEM MESSAGE:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="www.linkedin.com/in/leandro-antony" target="_blank">
+<a href="https://www.linkedin.com/in/leandro-antony/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
