@@ -1,16 +1,357 @@
-## Hi there 👋
+# `> SYSTEM.INITIALIZE()`
 
-<!--
-**Leandro-Antony/Leandro-Antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,50:0d1117,100:161b22&text=LEANDRO%20ANTONY&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20COMPUTER%20SCIENCE%20%7C%20IoT&descAlignY=60&descSize=16&animation=twinkling" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Leandro+Antony...;%3E+Loading+Software+Engineering+modules...;%3E+Compiling+ideas+into+software...;%3E+Building+intelligent+systems...;%3E+IoT+%2B+Computer+Vision+%2B+Software;%3E+System+status%3A+ONLINE+%E2%96%88" alt="Typing Animation"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00FF9C?style=for-the-badge"/>
+
+</div>
+
+---
+
+## `01 // ABOUT_ME`
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                     SYSTEM PROFILE                          │
+├──────────────────────────────────────────────────────────────┤
+│ NAME       :: Leandro Antony                                │
+│ ROLE       :: Computer Science Student / Developer          │
+│ DOMAIN     :: Software Engineering & Intelligent Systems    │
+│ LOCATION   :: Brazil                                        │
+│ STATUS     :: Learning • Building • Experimenting           │
+│ MODE       :: Always improving                               │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+> **"Transforming ideas, logic and technology into useful systems."**
+
+Sou estudante de **Ciência da Computação** com formação técnica em **Informática** e interesse especial em desenvolvimento de software, engenharia de software, IoT e sistemas inteligentes.
+
+Gosto de entender **como as coisas funcionam por baixo dos panos** e transformar conceitos em projetos reais — desde aplicações web até sistemas embarcados capazes de interagir com o mundo físico.
+
+Atualmente, meu foco está em evoluir como desenvolvedor, aprofundar meus conhecimentos em **Software Engineering** e construir projetos cada vez mais completos, eficientes e escaláveis.
+
+---
+
+## `02 // TECH_STACK`
+
+<div align="center">
+
+### `> LANGUAGES`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="Java"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" title="SQL / MySQL"/>
+
+<br><br>
+
+### `> FRAMEWORKS & LIBRARIES`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" title="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="50" title="Vite"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" title="Raspberry Pi"/>
+
+<br><br>
+
+### `> DEVELOPMENT & TOOLS`
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" title="Git"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" title="Supabase"/>
+
+</div>
+
+---
+
+## `03 // CORE_SKILLS`
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge\&logo=cplusplus\&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+
+</div>
+
+---
+
+## `04 // TOOLKIT`
+
+```yaml
+development:
+  frontend:
+    - HTML5
+    - CSS3
+    - JavaScript
+    - ReactJS
+    - Vite
+
+  backend:
+    - Node.js
+    - REST APIs
+    - SQL
+
+  embedded:
+    - C++
+    - Arduino
+    - ESP32
+    - IoT
+
+  data_and_vision:
+    - Python
+    - Computer Vision
+    - Machine Learning
+
+  workflow:
+    - Git
+    - GitHub
+    - VS Code
+    - Linux
+    - Supabase
+```
+
+---
+
+## `05 // FEATURED_PROJECTS`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### `01 — SMART CLIMATE`
+
+**Intelligent Climate Control System**
+
+Sistema inteligente de climatização utilizando **ESP32, sensores, controle infravermelho e visão computacional** para detectar ocupação e otimizar o funcionamento de aparelhos de ar-condicionado.
+
+```text
+ESP32
+DHT11
+ESP32-CAM
+Computer Vision
+IoT
+```
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Leandro-Antony)
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02 — WEB PLATFORM`
+
+**Full-Stack Web Application**
+
+Aplicação web desenvolvida com foco em arquitetura de software, autenticação, gerenciamento de usuários, produtos e integração com banco de dados.
+
+```text
+React
+JavaScript
+Vite
+Supabase
+SQL
+```
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Leandro-Antony)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03 — IoT SYSTEMS`
+
+**Embedded & Connected Systems**
+
+Projetos envolvendo **ESP32, sensores, atuadores, comunicação e automação**, conectando software ao mundo físico.
+
+```text
+C++
+ESP32
+Arduino
+Sensors
+IoT
+```
+
+[![Explore](https://img.shields.io/badge/EXPLORE_PROJECTS-00FF9C?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/Leandro-Antony?tab=repositories)
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 — MORE PROJECTS`
+
+**Experiments & Development**
+
+Uma coleção de experimentos, estudos e projetos desenvolvidos durante minha jornada em programação e Ciência da Computação.
+
+```text
+Web
+Software
+Algorithms
+IoT
+Experiments
+```
+
+[![VIEW\_ALL](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-FFFFFF?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/SEU_USUARIO_GITHUB?tab=repositories)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `06 // CURRENT_MISSION`
+
+```console
+┌──[LEANDRO@GITHUB]─[~/current-mission]
+└─$ ./status.sh
+
+[██████████████████████░░] 88%
+
+> [ACTIVE]   Improve Software Engineering skills
+> [ACTIVE]   Build scalable React applications
+> [ACTIVE]   Deepen knowledge of backend development
+> [ACTIVE]   Study algorithms & data structures
+> [ACTIVE]   Explore Artificial Intelligence
+> [ACTIVE]   Develop IoT & embedded systems
+> [ACTIVE]   Improve Computer Vision knowledge
+> [ACTIVE]   Create production-quality projects
+
+SYSTEM MESSAGE:
+"Keep learning. Keep building. Keep shipping."
+```
+
+---
+
+## `07 // GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Antony&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Antony&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Leandro-Antony&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="70%"/>
+
+</div>
+
+---
+
+## `08 // CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leandro-Antony&bg_color=0D1117&color=00E5FF&line=7C3AED&point=00FF9C&area=true&hide_border=true&custom_title=LEANDRO%20ANTONY%20%E2%80%94%20ACTIVITY%20GRAPH" width="95%"/>
+
+</div>
+
+---
+
+## `09 // TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Leandro-Antony&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
+
+</div>
+
+---
+
+## `10 // CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+### `> CONTRIBUTION SNAKE`
+
+<img src="https://raw.githubusercontent.com/Leandro-Antony/Leandro-Antony/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## `11 // SOCIAL_LINKS`
+
+<div align="center">
+
+<a href="https://github.com/Leandro-Antony">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="www.linkedin.com/in/leandro-antony">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:leanttonny@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   LEANDRO ANTONY                                            ║
+║   SOFTWARE DEVELOPER • COMPUTER SCIENCE • IoT               ║
+║                                                              ║
+║   "The future is built one line of code at a time."         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:161b22,50:0d1117,100:050505&animation=twinkling"/>
+
+</div>
