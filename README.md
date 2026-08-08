@@ -75,7 +75,6 @@ Currently, my focus is on growing as a developer, deepening my knowledge of Soft
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" title="Raspberry Pi"/>
 
 <br><br>
 
@@ -126,7 +125,6 @@ development:
 
   backend:
     - Node.js
-    - REST APIs
     - SQL
 
   embedded:
