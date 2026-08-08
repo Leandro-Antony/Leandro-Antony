@@ -35,11 +35,11 @@
 
 > **"Transforming ideas, logic and technology into useful systems."**
 
-Sou estudante de **Ciência da Computação** com formação técnica em **Informática** e interesse especial em desenvolvimento de software, engenharia de software, IoT e sistemas inteligentes.
+I am a **Computer Science** student with a technical background in **Information Technology**, with a strong interest in software development, software engineering, IoT, and intelligent systems.
 
-Gosto de entender **como as coisas funcionam por baixo dos panos** e transformar conceitos em projetos reais — desde aplicações web até sistemas embarcados capazes de interagir com o mundo físico.
+I enjoy understanding how things work under the hood and turning concepts into real-world projects, from web applications to embedded systems capable of interacting with the physical world.
 
-Atualmente, meu foco está em evoluir como desenvolvedor, aprofundar meus conhecimentos em **Software Engineering** e construir projetos cada vez mais completos, eficientes e escaláveis.
+Currently, my focus is on growing as a developer, deepening my knowledge of Software Engineering, and building increasingly complete, efficient, and scalable projects.
 
 ---
 
@@ -163,7 +163,8 @@ development:
 
 **Intelligent Climate Control System**
 
-Sistema inteligente de climatização utilizando **ESP32, sensores, controle infravermelho e visão computacional** para detectar ocupação e otimizar o funcionamento de aparelhos de ar-condicionado.
+Intelligent climate control system using **ESP32, sensors, infrared control, and computer vision** to detect room occupancy and optimize air conditioning operation.
+
 
 ```text
 ESP32
@@ -183,7 +184,7 @@ IoT
 
 **Full-Stack Web Application**
 
-Aplicação web desenvolvida com foco em arquitetura de software, autenticação, gerenciamento de usuários, produtos e integração com banco de dados.
+Web application developed with a focus on **software architecture, authentication, user and product management, and database integration**.
 
 ```text
 React
@@ -207,7 +208,7 @@ SQL
 
 **Embedded & Connected Systems**
 
-Projetos envolvendo **ESP32, sensores, atuadores, comunicação e automação**, conectando software ao mundo físico.
+Projects involving **ESP32, sensors, actuators, communication, and automation**, connecting software to the physical world.
 
 ```text
 C++
@@ -227,7 +228,7 @@ IoT
 
 **Experiments & Development**
 
-Uma coleção de experimentos, estudos e projetos desenvolvidos durante minha jornada em programação e Ciência da Computação.
+A collection of experiments, studies, and projects developed throughout my journey in programming and Computer Science.
 
 ```text
 Web
