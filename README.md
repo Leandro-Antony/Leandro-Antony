@@ -276,12 +276,6 @@ SYSTEM MESSAGE:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Antony&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Antony&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Leandro-Antony&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" width="70%"/>
 
 </div>
@@ -297,30 +291,7 @@ SYSTEM MESSAGE:
 </div>
 
 ---
-
-## `09 // TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Leandro-Antony&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
-
-</div>
-
----
-
-## `10 // CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-### `> CONTRIBUTION SNAKE`
-
-<img src="https://raw.githubusercontent.com/Leandro-Antony/Leandro-Antony/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## `11 // SOCIAL_LINKS`
+## `09 // SOCIAL_LINKS`
 
 <div align="center">
 
